@@ -1,0 +1,11 @@
+gtksourceview: GtkSourceView (A GTK+ framework for multiline text editing)
+gtksourceview:
+gtksourceview: GtkSourceView is a portable C library that extends the standard
+gtksourceview: GTK+ framework for multiline text editing with support for
+gtksourceview: configurable syntax highlighting, unlimited undo/redo, search
+gtksourceview: and replace, a completion framework, printing and other features
+gtksourceview: typical of a source code editor.
+gtksourceview:
+gtksourceview:
+gtksourceview:
+gtksourceview: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
